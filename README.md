@@ -1,7 +1,7 @@
-<h1 align="center">Tech Lead · Business Modernization with Google Cloud</h1>
+<h1 align="center">AI Productivity Engineer</h1>
 
 <p align="center">
-  Systems Integration · Custom Software · AI Automation
+  I modernize business operations with AI to make companies move faster
 </p>
 
 <p align="center">
