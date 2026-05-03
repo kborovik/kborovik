@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-  <strong>PilotPlan</strong> (<code>gh</code>) — GitHub workflow + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-plan/skills/socratic/SKILL.md">Socratic</a> planning + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-plan/skills/steno/SKILL.md">Steno</a>-style PR|Issues bodies.<br/>
+  <strong>PilotPlan</strong> (<code>gh</code>) — GitHub workflow + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-plan/skills/socratic/SKILL.md">Socratic</a> planning + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-plan/skills/steno/SKILL.md">Steno</a>-style bodies.<br/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><strong>→ Read the PilotSpec deep-dive</strong></a>
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><strong>PilotSpec - Specs Driven Development deep-dive</strong></a>
 </p>
 
 ---
