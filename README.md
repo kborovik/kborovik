@@ -21,12 +21,6 @@
   <strong>PilotPlan</strong> (<code>gh</code>) — GitHub workflow + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-plan/skills/socratic/SKILL.md">Socratic</a> planning + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-plan/skills/steno/SKILL.md">Steno</a>-style PR|Issues bodies.<br/>
 </p>
 
-<p align="center">
-  <code>/plugin marketplace add kborovik/pilot-skills</code><br/>
-  <code>/plugin install sdd@pilot-skills</code><br/>
-  <code>/plugin install gh@pilot-skills</code>
-</p>
-
 ---
 
 <p align="center">
