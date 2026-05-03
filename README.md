@@ -23,11 +23,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><strong>PilotSpec - Specs Driven Development deep-dive</strong></a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://lab5.ca">lab5.ca</a>
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><strong>PilotSpec - Specs Driven Development (SDD) deep-dive</strong></a>
 </p>
