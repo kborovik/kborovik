@@ -14,17 +14,17 @@
 
 <p align="center">
   <strong>PilotSpec</strong> (<code>sdd</code>) — spec-driven dev. One <code>SPEC.md</code>, four commands, zero sub-agents.<br/>
-  Math-glyph encoding (∀ ∃ ∴ ⊥ §) at ~75% token reduction. Backprop reflex: every bug → §B row → §V invariant + test.<br/>
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">Math-glyph</a> encoding (∀ ∃ ∴ ⊥ §) at ~75% token reduction. Backprop reflex: every bug → §B row → §V invariant + test.<br/>
 </p>
 
 <p align="center">
-  <strong>PilotPlan</strong> (<code>gh</code>) — GitHub workflow.<br/>
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-plan/skills/socratic/SKILL.md"><strong>Socratic</strong></a> — 1-question dialogue that turns vague intent ("something's off with X") into a filable issue. Doubles as a teaching loop: when an answer reveals a gap, the distinction surfaces in 1-2 sentences before the next question.<br/>
-  Issues, PRs, commits, merges, releases. Steno-style PR bodies.
+  <strong>PilotPlan</strong> (<code>gh</code>) — GitHub workflow + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-plan/skills/socratic/SKILL.md">Socratic</a> planning + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-plan/skills/steno/SKILL.md">Steno</a>-style PR|Issues bodies.<br/>
 </p>
 
 <p align="center">
-  <code>/plugin marketplace add kborovik/pilot-skills</code>
+  <code>/plugin marketplace add kborovik/pilot-skills</code><br/>
+  <code>/plugin install sdd@pilot-skills</code><br/>
+  <code>/plugin install gh@pilot-skills</code>
 </p>
 
 ---
