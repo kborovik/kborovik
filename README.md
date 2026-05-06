@@ -6,7 +6,9 @@
   I build Claude Code tooling that optimizes for <strong>review throughput</strong>, not generation throughput.
 </p>
 
----
+<p align="center">
+  <img src="gradient-rule.svg" alt="" width="600" height="4">
+</p>
 
 <h3 align="center">
   The big idea: single-agent loop + math-glyph spec, no sub-agents
@@ -23,5 +25,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><strong>PilotSpec - Specs Driven Development (SDD) deep-dive</strong></a>
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><img src="https://img.shields.io/badge/PilotSpec-SDD%20deep--dive-1f883d?style=for-the-badge" alt="PilotSpec — SDD deep-dive"></a>
 </p>
