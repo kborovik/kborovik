@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <strong>PilotPlan</strong> (<code>gh</code>) — GitHub workflow + <a href="https://github.com/kborovik/pilot-skills">Socratic</a> planning + <a href="https://github.com/kborovik/pilot-skills">Steno</a>-style bodies.<br/>
+  <strong>PilotPlan</strong> (<code>gh</code>) — GitHub workflow + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-core/skills/socratic/SKILL.md">Socratic</a> planning + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-core/skills/steno/SKILL.md">Steno</a>-style bodies.<br/>
 </p>
 
 <p align="center">
