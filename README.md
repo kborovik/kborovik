@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><img src="https://img.shields.io/badge/PilotSpec-SDD%20deep--dive-1f883d?style=for-the-badge" alt="PilotSpec — SDD deep-dive"></a>
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><img src="https://img.shields.io/badge/PilotSpec%20%E2%80%94%20SDD%20deep--dive-1f883d?style=flat-square" alt="PilotSpec — SDD deep-dive"></a>
 </p>
