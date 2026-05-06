@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="gradient-rule.svg" alt="" width="600" height="4">
+  <img src="gradient-rule.svg" alt="" width="600" height="6">
 </p>
 
 <h3 align="center">
