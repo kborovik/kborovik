@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Optimize for <strong>review throughput</strong>, not code generation throughput.
+  LLMs generate fast; humans review slow. The <strong>SPEC</strong> is what's worth keeping — it's how you scale consistency.
 </p>
 
 <p align="center">
@@ -11,14 +11,9 @@
 </p>
 
 <h3 align="center">
-  math-glyph spec + single-agent loop, no sub-agents
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md">spec-driven development</a>
+  +  
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">math-glyph encoding</a>
+  + 
+  single-agent loop
 </h3>
-
-<p align="center">
-  <strong>pilot-spec</strong> (<code>sdd</code>) — spec-driven dev. One <code>SPEC.md</code>, zero sub-agents.<br/>
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">math-glyph</a> encoding (∀ ∃ ∴ ⊥ §) at ~75% token reduction.<br/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><strong>pilot-spec — SDD deep-dive</strong></a>
-</p>
