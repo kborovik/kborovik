@@ -10,10 +10,10 @@
   <img src="accent-rule.svg" alt="" width="600" height="6">
 </p>
 
-<h3 align="center">
+<h4 align="center">
   <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md">spec-driven development</a>
   +  
   <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">math-glyph encoding</a>
   + 
   single-agent loop
-</h3>
+</h4>
