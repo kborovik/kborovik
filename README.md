@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I build Claude Code tooling that optimizes for <strong>review throughput</strong>, not generation throughput.
+  Optimize for <strong>review throughput</strong>, not code generation throughput.
 </p>
 
 <p align="center">
@@ -11,19 +11,14 @@
 </p>
 
 <h3 align="center">
-  The big idea: single-agent loop + math-glyph spec, no sub-agents
+  math-glyph spec + single-agent loop, no sub-agents
 </h3>
 
 <p align="center">
-  <strong>PilotSpec</strong> (<code>sdd</code>) — spec-driven dev. One <code>SPEC.md</code>, four commands, zero sub-agents.<br/>
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">Math-glyph</a> encoding (∀ ∃ ∴ ⊥ §) at ~75% token reduction.<br/>
-  Backprop reflex: every bug → §B row → §V invariant + test.<br/>
+  <strong>pilot-spec</strong> (<code>sdd</code>) — spec-driven dev. One <code>SPEC.md</code>, zero sub-agents.<br/>
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">math-glyph</a> encoding (∀ ∃ ∴ ⊥ §) at ~75% token reduction.<br/>
 </p>
 
 <p align="center">
-  <strong>PilotPlan</strong> (<code>gh</code>) — GitHub workflow + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-core/skills/socratic/SKILL.md">Socratic</a> planning + <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-core/skills/steno/SKILL.md">Steno</a>-style bodies.<br/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><strong>PilotSpec — SDD deep-dive</strong></a>
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md"><strong>pilot-spec — SDD deep-dive</strong></a>
 </p>
