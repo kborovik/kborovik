@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  LLMs generate fast; humans review slow. The <strong>SPEC</strong> is what's worth keeping — it's how you scale consistency.
+  LLMs generate fast; humans review slow. The <strong>SPEC</strong> is what's worth keeping — it's how you <strong>scale consistency</strong>.
 </p>
 
 <p align="center">
