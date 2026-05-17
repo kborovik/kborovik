@@ -2,7 +2,11 @@
 
 LLMs generate fast; humans review slow. The **SPEC** is what's worth keeping — it's how you **scale consistency**.
 
-[math-glyph encoding](https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md) + [spec-driven development](https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/)
+<h3 align="center">
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">math-glyph encoding</a>
+  +
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/">spec-driven development</a>
+</h3>
 
 ---
 
