@@ -10,11 +10,11 @@ LLMs generate fast; humans review slow. The **SPEC** is what's worth keeping —
 
 ---
 
-### [Glyph Compression Measurement](https://github.com/kborovik/pilot-skills/blob/main/benchmarks/glyph/README.md)
+<h3 align="center">math-glyph compression</h3>
 
 Math-glyph SPEC vs plain-English prose (n=30):
 
 - **~29%** denser than a minimal prose unwrap — pure notation overhead.
 - **~89%** denser than operator-facing prose from `/sdd:explain` — the form a human reviewer actually reads.
 
-Skills, benchmarks, and SPEC.md → **[github.com/kborovik/pilot-skills](https://github.com/kborovik/pilot-skills)**
+**[methodology, worked examples & raw numbers →](https://github.com/kborovik/pilot-skills/tree/main/benchmarks/glyph)**
