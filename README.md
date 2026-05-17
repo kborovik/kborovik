@@ -1,19 +1,21 @@
-<h1 align="center">
-  The bottleneck is human reasoning, not LLM throughput.
-</h1>
+# The bottleneck is human reasoning, not LLM throughput.
 
-<p align="center">
-  LLMs generate fast; humans review slow. The <strong>SPEC</strong> is what's worth keeping — it's how you <strong>scale consistency</strong>.
-</p>
+LLMs generate fast; humans review slow. The **SPEC** is what's worth keeping — it's how you **scale consistency**.
 
-<p align="center">
-  <img src="accent-rule.svg" alt="" width="600" height="6">
-</p>
+[spec-driven development](https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/) + [math-glyph encoding](https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md) + single-agent loop
 
-<h4 align="center">
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/README.md">spec-driven development</a>
-  +  
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">math-glyph encoding</a>
-  + 
-  single-agent loop
-</h4>
+---
+
+### [Glyph Compression Measurement](https://github.com/kborovik/pilot-skills/blob/main/benchmarks/glyph/README.md)
+
+Math-glyph SPEC encoding vs plain-English prose, grand-totals over n=30:
+
+| decoder   | reduction |
+| --------- | --------- |
+| minimal   | ~29%      |
+| canonical | ~89%      |
+
+- **~29%** denser than a minimal prose unwrap — pure notation overhead.
+- **~89%** denser than operator-facing prose from `/sdd:explain` — the form a human reviewer actually reads.
+
+Skills, benchmarks, and SPEC.md → **[github.com/kborovik/pilot-skills](https://github.com/kborovik/pilot-skills)**
