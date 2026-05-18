@@ -1,6 +1,6 @@
-# The bottleneck is human reasoning, not LLM throughput.
+# Consistency is the only quality that survives velocity.
 
-LLMs generate fast; humans review slow. The **SPEC** is what's worth keeping — it's how you **scale consistency**.
+LLMs generate fast; agents lose the thread faster. The **SPEC** is what the agent re-reads every turn — and it's what's worth keeping.
 
 <h3 align="center">
   <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">math-glyph encoding</a>
