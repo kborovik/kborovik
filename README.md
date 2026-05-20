@@ -17,7 +17,7 @@ LLMs generate fast; agents lose the thread faster. The **SPEC** is what keeps Ag
 ---
 
 <h3 align="center">
-  math-glyph compression for LLM context
+  math-glyph token compression
 </h3>
 
 Math-glyph SPEC vs plain-English prose (n=30):
