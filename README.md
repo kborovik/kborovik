@@ -5,15 +5,19 @@
 LLMs generate fast; agents lose the thread faster. The **SPEC** is what keeps Agents in check.
 
 <h3 align="center">
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">math-glyph encoding</a>
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">
+    math-glyph encoding 
+  </a>
   +
-  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/">spec-driven development</a>
+  <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/">
+    spec-driven development
+    </a>
 </h3>
 
 ---
 
 <h3 align="center">
-  math-glyph compression
+  math-glyph compression for LLM context
 </h3>
 
 Math-glyph SPEC vs plain-English prose (n=30):
