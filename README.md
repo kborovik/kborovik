@@ -1,8 +1,10 @@
 <h1 align="center">
-  Consistency is the only quality that survives velocity
+  Code consistency is the casualty of LLM agent velocity
 </h1>
 
-LLMs generate fast; agents lose the thread faster. The **SPEC** is what keeps Agents in check.
+<p align="center">
+  LLMs generate fast; agents lose the thread faster. The <strong>SPEC</strong> is what keeps Agents in check.
+</p>
 
 <h3 align="center">
   <a href="https://github.com/kborovik/pilot-skills/blob/main/pilot-spec/skills/glyph/SKILL.md">
